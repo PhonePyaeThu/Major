@@ -1,0 +1,2 @@
+# Major
+Major auto claimer
