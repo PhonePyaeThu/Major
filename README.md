@@ -1,2 +1,1 @@
-# Major
-Major auto claimer
+This script is modified by Bhone Pyae Thu 
